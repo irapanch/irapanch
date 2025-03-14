@@ -1,4 +1,4 @@
- #  Irina Panchenko's page
+ #  Iryna Panchenko's page
 ### ⚡ Frontend Developer | Debugger | Code Reviewer
 
 - 🔭 Currently working on [photo-portfolio](https://salo.li/182ef2a)
