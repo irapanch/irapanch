@@ -1,7 +1,7 @@
  ##  Irina Panchenko's page
 ### ⚡ Frontend Developer | Debugger | Code Reviewer
 
-- 🔭 Currently working on [this link](https://salo.li/182ef2a)
+- 🔭 Currently working on [photo-portfolio](https://salo.li/182ef2a)
 - 🌱 Learning new technologies: `Next.js`, `Nest.js`, `MySQL`  
 - 💬 Ask me about how to fix elements on your landing page ✨
 - 📫 How to reach me:
