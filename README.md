@@ -6,7 +6,7 @@
 - 💬 Ask me about how to fix elements on your landing page here ⬇️
 - ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/IraPanchI)
 ![Email](https://img.shields.io/badge/Email-A0522D?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:3041804428puh@gmail.com)
- ![Upwork](https://img.shields.io/badge/Upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=6FDA44&border=6FDA44)
+![Upwork](https://img.shields.io/badge/Upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=6FDA44&color=6FDA44)
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iryna-panchenko-a17902273/)
  
 
