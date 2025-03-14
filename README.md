@@ -5,7 +5,7 @@
 - 🌱 Learning new technologies: `Next.js`, `Nest.js`, `MySQL`  
 - 💬 Ask me about how to fix elements on your landing page here ⬇️
 - ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/IraPanchI)
-  ![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:3041804428puh@gmail.com)
+![Email](https://img.shields.io/badge/Email-A0522D?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:3041804428puh@gmail.com)
   ![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~018c664871ad18f4ae)
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iryna-panchenko-a17902273/)
  
