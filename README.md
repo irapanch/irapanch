@@ -1,5 +1,5 @@
-<h1 style="color: #0b354e;">Iryna Panchenko's page</h1>
-<h3 style="color: #032133;">⚡ Frontend Developer | Debugger | Code Reviewer</h3>
+# Iryna Panchenko's page 
+### ⚡ **Frontend Developer** | **Debugger** | **Code Reviewer**
 
 - 🔭 Currently working on [photo-portfolio](https://salo.li/182ef2a)
 - 🌱 Learning new technologies: `Next.js`, `Nest.js`, `MySQL`  
