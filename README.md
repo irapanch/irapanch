@@ -20,6 +20,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🛠 Regularly used Tech Stack:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irapanch&layout=compact&langs_count=6&theme=radical)
+
+
 
 
 
