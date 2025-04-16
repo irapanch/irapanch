@@ -2,7 +2,7 @@
 ### ⚡ **Frontend Developer** | **Debugger** | **Code Reviewer**
 
 - 🔭 Currently working on [photo-portfolio](https://salo.li/182ef2a)
-- 🌱 Learning new technologies: `Next.js`, `Nest.js`, `MySQL`  
+- 🌱 Learning new technologies: `Next.js`, `Nest.js`, `PostgreSQL`  
 - 💬 Ask me about how to fix elements on your landing page here ⬇️
 - ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/IraPanchI)
 ![Email](https://img.shields.io/badge/Email-A0522D?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:3041804428puh@gmail.com)
