@@ -1,7 +1,7 @@
 # Iryna Panchenko's page 
 ### ⚡ **Frontend Developer** | **Debugger** | **Code Reviewer**
 
-- 🔭 Currently working on [Storinky book-service]([https://www.storinky.co.ua/])
+- 🔭 Currently working on [Storinky book-service](https://www.storinky.co.ua/)
 - 🌱 Learning new technologies: `Next.js`, `Nest.js`, `PostgreSQL`  
 - 💬 Ask me about how to fix elements on your landing page here ⬇️
 - ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/IraPanchI)
